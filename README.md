@@ -1,6 +1,6 @@
 # AI Agent Development Practice
 
-This repository contains tutorials and practical examples for building AI agents using modern frameworks like SmoLAgents and LangGraph. The project progresses from basic tool concepts to multi-agent workflows, culminating in a practical sales intelligence agent.
+This repository contains tutorials and practical examples for building AI agents using modern frameworks like SmoLAgents and LangGraph. The project progresses from basic tool concepts to multi-agent workflows, culminating in a practical sales intelligence agent that automates company research and market analysis.
 
 ## Project Structure
 
@@ -17,7 +17,7 @@ This repository contains tutorials and practical examples for building AI agents
 1. **Start with `tools.ipynb`** - Learn the fundamentals of AI tools
 2. **Continue with `first_smolagents.ipynb`** - Build your first agent with SmoLAgents
 3. **Explore `langgraph_agent.ipynb`** - Understand stateful workflows with LangGraph
-4. **Apply knowledge with `SalesHelper.ipynb`** - Build a real-world application
+4. **Apply knowledge with `SalesHelper.ipynb`** - Build a real-world multi-agent application with LangGraph
 
 ## 🔧 Setup Instructions
 
