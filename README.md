@@ -26,8 +26,7 @@ This repository contains tutorials and practical examples for building AI agents
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
-   cd ai-agent-tutorial
+   git clone https://github.com/lixx-backup/AI-Agent.git
    ```
 
 2. **Create a virtual environment**
